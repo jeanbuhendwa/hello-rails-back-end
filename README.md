@@ -110,23 +110,9 @@ To run the project, execute the following command:
   ./bin/dev
 ```
 
-### Run tests
+You can access the frontend PR using the below link
 
-To run tests, run the following command:
-
-_Test is not available_
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+[Here...](https://github.com/jeanbuhendwa/hello_world_frontend/pull/1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
